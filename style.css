@@ -459,6 +459,7 @@ a:hover{
     gap: 138px;
     text-align: center;
     padding: 39px 165px;
+    width:100vh;
   }
   .logo2 {
     height: 55px;
